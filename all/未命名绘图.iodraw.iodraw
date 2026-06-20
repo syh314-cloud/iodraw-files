@@ -219,7 +219,7 @@
           <mxGeometry x="1050" y="1570" width="159" height="66" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-45" value="D3 深度相机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1277" y="1530" width="147" height="49" as="geometry" />
+          <mxGeometry x="1020" y="1791" width="147" height="49" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-46" value="D4 IMU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1296" y="1629" width="109" height="49" as="geometry" />
