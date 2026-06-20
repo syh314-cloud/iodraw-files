@@ -207,7 +207,7 @@
           <mxGeometry x="20" y="1459" width="114" height="49" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-41" value="E2 扬声器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1937" y="2009" width="130" height="49" as="geometry" />
+          <mxGeometry x="430" y="2070" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-42" value="E3 机器人本体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1921" y="1888" width="162" height="49" as="geometry" />
@@ -249,7 +249,7 @@
           <mxGeometry x="1628" y="1864" width="92" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-55" value="P8&#xa;步态执行" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1628" y="1763" width="92" height="51" as="geometry" />
+          <mxGeometry x="290" y="1908" width="92" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-56" value="P9&#xa;语音播报" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="1978" width="92" height="51" as="geometry" />
@@ -352,7 +352,7 @@
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-71" value="步态控制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.22;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-53" target="w0EkBlQ8d2_kXEBEF-Pg-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1509" y="1789" />
+              <mxPoint x="610" y="1880" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -363,10 +363,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-73" value="播报文本" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-53" target="w0EkBlQ8d2_kXEBEF-Pg-56">
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-73" value="播报文本" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-53" target="w0EkBlQ8d2_kXEBEF-Pg-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="970" y="1980" />
+              <mxPoint x="490" y="1930" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -384,7 +384,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-76" value="语音数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-56" target="w0EkBlQ8d2_kXEBEF-Pg-41">
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-76" value="语音数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-56" target="w0EkBlQ8d2_kXEBEF-Pg-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
