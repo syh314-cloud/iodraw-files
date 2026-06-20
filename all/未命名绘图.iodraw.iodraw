@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="WRystLiCh0nxQC_QNcEi">
-    <mxGraphModel dx="1207" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1368" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,17 +337,18 @@
             <mxPoint x="826" y="1840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-69" value="避障策略" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-52" target="w0EkBlQ8d2_kXEBEF-Pg-53">
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-69" value="避障策略" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="1860" />
             </Array>
+            <mxPoint x="560" y="1820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-70" value="障碍状态/距离" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.61;rounded=0;" edge="1" parent="1" target="w0EkBlQ8d2_kXEBEF-Pg-52">
           <mxGeometry x="-0.0014" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="570" y="1816" as="sourcePoint" />
+            <mxPoint x="560" y="1810" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
