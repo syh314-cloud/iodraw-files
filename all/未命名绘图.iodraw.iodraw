@@ -370,11 +370,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-74" value="/gaitCommand" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-55" target="w0EkBlQ8d2_kXEBEF-Pg-42">
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-74" value="/gaitCommand" style="curved=1;startArrow=none;endArrow=block;entryX=0.3;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-55" target="w0EkBlQ8d2_kXEBEF-Pg-42">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1020" y="2090" />
-            </Array>
+            <Array as="points" />
+            <mxPoint x="330" y="1980" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-75" value="舵机控制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-54" target="w0EkBlQ8d2_kXEBEF-Pg-42">
