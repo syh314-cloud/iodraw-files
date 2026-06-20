@@ -1,0 +1,408 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="WRystLiCh0nxQC_QNcEi">
+    <mxGraphModel dx="1466" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-1" value="E1 用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="238" width="114" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-2" value="E2 扬声器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2365" y="1209" width="130" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-3" value="E3 机器人本体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2349" y="982" width="162" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-4" value="D1 本地规则库&#xa;固定指令/别名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1297" y="60" width="164" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-5" value="D2 LLM知识库&#xa;Prompt/策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1633" y="190" width="159" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-6" value="D3 深度相机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1639" y="306" width="147" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-7" value="D4 IMU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1658" y="404" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-8" value="D5 日志/状态库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1997" y="195" width="171" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-9" value="&amp;quot;P1&#xa;语音采集&amp;quot;" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="252" y="157" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-10" value="&amp;quot;P2&#xa;语音识别&amp;quot;" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="621" y="157" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-11" value="&amp;quot;P3&#xa;本地固定指令匹配&amp;quot;" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="948" y="158" width="209" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-12" value="&amp;quot;P4&#xa;大模型语义理解&amp;quot;" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="176" width="209" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-13" value="&amp;quot;P5&#xa;深度避障&amp;quot;" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1978" y="305" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-14" value="&amp;quot;P6&#xa;导盲状态机&amp;quot;" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="621" width="214" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-15" value="&amp;quot;P7&#xa;举手引导&amp;quot;" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1978" y="826" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-16" value="&amp;quot;P8&#xa;步态执行&amp;quot;" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1978" y="565" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-17" value="&amp;quot;P9&#xa;语音播报&amp;quot;" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1978" y="1128" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-18" value="用户语音" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-1" target="w0EkBlQ8d2_kXEBEF-Pg-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-19" value="/audio/stream" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-9" target="w0EkBlQ8d2_kXEBEF-Pg-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-20" value="/aiui/iat" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-10" target="w0EkBlQ8d2_kXEBEF-Pg-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-21" value="查询规则" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=0;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-11" target="w0EkBlQ8d2_kXEBEF-Pg-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1216" y="72" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-22" value="匹配结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=1;entryY=0.2;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-4" target="w0EkBlQ8d2_kXEBEF-Pg-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1216" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-23" value="命中指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.15;entryY=0;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-11" target="w0EkBlQ8d2_kXEBEF-Pg-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1216" y="492" />
+              <mxPoint x="1544" y="492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-24" value="未命中" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.55;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-11" target="w0EkBlQ8d2_kXEBEF-Pg-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1216" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-25" value="Prompt" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.26;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-12" target="w0EkBlQ8d2_kXEBEF-Pg-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1544" y="201" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-26" value="系统策略" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=1;entryY=0.68;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-5" target="w0EkBlQ8d2_kXEBEF-Pg-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1544" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-27" value="JSON结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1;entryX=0;entryY=0.59;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-12" target="w0EkBlQ8d2_kXEBEF-Pg-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1544" y="759" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-28" value="深度图" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.28;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-6" target="w0EkBlQ8d2_kXEBEF-Pg-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1899" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-29" value="IMU数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.55;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-7" target="w0EkBlQ8d2_kXEBEF-Pg-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1899" y="429" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-30" value="障碍状态/距离" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=1;entryY=0;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-13" target="w0EkBlQ8d2_kXEBEF-Pg-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1899" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-31" value="避障策略" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=0;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-14" target="w0EkBlQ8d2_kXEBEF-Pg-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1899" y="498" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-32" value="步态控制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-14" target="w0EkBlQ8d2_kXEBEF-Pg-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1899" y="671" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-33" value="手势控制" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-14" target="w0EkBlQ8d2_kXEBEF-Pg-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1899" y="931" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-34" value="播报文本" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-14" target="w0EkBlQ8d2_kXEBEF-Pg-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1899" y="1234" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-35" value="/gaitCommand" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.43;entryY=0.01;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-16" target="w0EkBlQ8d2_kXEBEF-Pg-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2268" y="671" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-36" value="舵机控制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.18;entryY=0.01;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-15" target="w0EkBlQ8d2_kXEBEF-Pg-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2268" y="931" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-37" value="语音数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-17" target="w0EkBlQ8d2_kXEBEF-Pg-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-38" value="执行反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.77;entryY=1;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-3" target="w0EkBlQ8d2_kXEBEF-Pg-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2268" y="1082" />
+              <mxPoint x="1899" y="1082" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-39" value="状态日志" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-14" target="w0EkBlQ8d2_kXEBEF-Pg-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1899" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-40" value="E1 用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1459" width="114" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-41" value="E2 扬声器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1937" y="2009" width="130" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-42" value="E3 机器人本体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1921" y="1888" width="162" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-43" value="D1 本地规则库&#xa;固定指令/别名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="985" y="1360" width="164" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-44" value="D2 LLM知识库&#xa;Prompt/策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1272" y="1414" width="159" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-45" value="D3 深度相机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1277" y="1530" width="147" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-46" value="D4 IMU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1296" y="1629" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-47" value="D5 日志/状态库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1589" y="1459" width="171" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-48" value="P1&#xa;语音采集" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="252" y="1458" width="92" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-49" value="P2&#xa;语音识别" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="503" y="1458" width="92" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-50" value="P3&#xa;本地固定指令匹配" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="711" y="1458" width="156" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-51" value="P4&#xa;大模型语义理解" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="997" y="1476" width="140" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-52" value="P5&#xa;深度避障" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1628" y="1649" width="92" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-53" value="P6&#xa;导盲状态机" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1297" y="1804" width="108" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-54" value="P7&#xa;举手引导" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1628" y="1864" width="92" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-55" value="P8&#xa;步态执行" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1628" y="1763" width="92" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-56" value="P9&#xa;语音播报" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1628" y="2008" width="92" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-57" value="用户语音" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-40" target="w0EkBlQ8d2_kXEBEF-Pg-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-58" value="/audio/stream" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-48" target="w0EkBlQ8d2_kXEBEF-Pg-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-59" value="/aiui/iat" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-49" target="w0EkBlQ8d2_kXEBEF-Pg-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-60" value="查询规则" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=-0.01;entryX=0;entryY=0.31;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-50" target="w0EkBlQ8d2_kXEBEF-Pg-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="926" y="1372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-61" value="匹配结果" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.89;entryY=-0.01;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-43" target="w0EkBlQ8d2_kXEBEF-Pg-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="926" y="1426" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-62" value="命中指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0.31;entryY=-0.01;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-50" target="w0EkBlQ8d2_kXEBEF-Pg-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="926" y="1650" />
+              <mxPoint x="1210" y="1650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-63" value="未命中" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-50" target="w0EkBlQ8d2_kXEBEF-Pg-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="926" y="1502" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-64" value="Prompt" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0;entryX=0;entryY=0.32;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-51" target="w0EkBlQ8d2_kXEBEF-Pg-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="1426" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-65" value="系统策略" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1.01;entryX=0.84;entryY=1;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-44" target="w0EkBlQ8d2_kXEBEF-Pg-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="1578" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-66" value="JSON结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=0;entryY=0.73;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-51" target="w0EkBlQ8d2_kXEBEF-Pg-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="1860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-67" value="深度图" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.12;entryY=-0.01;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-45" target="w0EkBlQ8d2_kXEBEF-Pg-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1509" y="1555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-68" value="IMU数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.38;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-46" target="w0EkBlQ8d2_kXEBEF-Pg-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1509" y="1653" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-69" value="障碍状态/距离" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.91;entryY=-0.01;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-52" target="w0EkBlQ8d2_kXEBEF-Pg-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1509" y="1738" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-70" value="避障策略" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=-0.01;entryX=0;entryY=0.61;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-53" target="w0EkBlQ8d2_kXEBEF-Pg-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1509" y="1696" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-71" value="步态控制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.22;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-53" target="w0EkBlQ8d2_kXEBEF-Pg-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1509" y="1789" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-72" value="手势控制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-53" target="w0EkBlQ8d2_kXEBEF-Pg-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1509" y="1890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-73" value="播报文本" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.99;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-53" target="w0EkBlQ8d2_kXEBEF-Pg-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1509" y="2033" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-74" value="/gaitCommand" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-55" target="w0EkBlQ8d2_kXEBEF-Pg-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1840" y="1789" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-75" value="舵机控制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.27;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-54" target="w0EkBlQ8d2_kXEBEF-Pg-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1840" y="1890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-76" value="语音数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-56" target="w0EkBlQ8d2_kXEBEF-Pg-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-77" value="执行反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=0.99;entryX=0.78;entryY=0.99;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-42" target="w0EkBlQ8d2_kXEBEF-Pg-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1840" y="1962" />
+              <mxPoint x="1509" y="1962" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-78" value="状态日志" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-53" target="w0EkBlQ8d2_kXEBEF-Pg-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1509" y="1483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
