@@ -322,11 +322,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-67" value="深度图" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-45" target="w0EkBlQ8d2_kXEBEF-Pg-52">
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-67" value="深度图" style="curved=1;startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="w0EkBlQ8d2_kXEBEF-Pg-52">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1050" y="1820" />
-            </Array>
+            <Array as="points" />
+            <mxPoint x="1020" y="1816" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-68" value="IMU数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.38;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-46" target="w0EkBlQ8d2_kXEBEF-Pg-52">
