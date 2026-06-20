@@ -213,7 +213,7 @@
           <mxGeometry x="1921" y="1888" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-43" value="D1 本地规则库&#xa;固定指令/别名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="985" y="1360" width="164" height="66" as="geometry" />
+          <mxGeometry x="940" y="1360" width="164" height="66" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-44" value="D2 LLM知识库&#xa;Prompt/策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1272" y="1414" width="159" height="66" as="geometry" />
@@ -237,13 +237,13 @@
           <mxGeometry x="690" y="1459" width="156" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-51" value="P4&#xa;大模型语义理解" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="997" y="1476" width="140" height="51" as="geometry" />
+          <mxGeometry x="827" y="1590" width="140" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-52" value="P5&#xa;深度避障" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1628" y="1649" width="92" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-53" value="P6&#xa;导盲状态机" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1297" y="1804" width="108" height="51" as="geometry" />
+          <mxGeometry x="344" y="1970" width="108" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-54" value="P7&#xa;举手引导" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1628" y="1864" width="92" height="51" as="geometry" />
