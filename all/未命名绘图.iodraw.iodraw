@@ -283,7 +283,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-62" value="命中指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0.31;entryY=-0.01;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-50" target="w0EkBlQ8d2_kXEBEF-Pg-53">
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-62" value="命中指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.31;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-50" target="w0EkBlQ8d2_kXEBEF-Pg-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="1560" />
@@ -331,7 +331,7 @@
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-68" value="IMU数据" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="930" y="1970" />
+              <mxPoint x="970" y="1930" />
             </Array>
             <mxPoint x="1040" y="1934" as="sourcePoint" />
             <mxPoint x="826" y="1840" as="targetPoint" />
