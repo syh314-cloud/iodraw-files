@@ -301,10 +301,10 @@
             <mxPoint x="782" y="1598" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-64" value="Prompt" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0;entryX=0;entryY=0.32;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-51" target="w0EkBlQ8d2_kXEBEF-Pg-44">
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-64" value="Prompt" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.32;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-51" target="w0EkBlQ8d2_kXEBEF-Pg-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1210" y="1426" />
+              <mxPoint x="950" y="1590" />
             </Array>
           </mxGeometry>
         </mxCell>
