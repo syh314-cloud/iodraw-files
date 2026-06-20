@@ -345,8 +345,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-70" value="避障策略" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=-0.01;entryX=0;entryY=0.61;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-53" target="w0EkBlQ8d2_kXEBEF-Pg-52">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0014" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-71" value="步态控制" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-53" target="w0EkBlQ8d2_kXEBEF-Pg-55">
