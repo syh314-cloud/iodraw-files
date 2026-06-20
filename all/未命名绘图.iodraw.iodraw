@@ -328,18 +328,19 @@
             <mxPoint x="1020" y="1816" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-68" value="IMU数据" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.38;rounded=0;" edge="1" parent="1" target="w0EkBlQ8d2_kXEBEF-Pg-52">
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-68" value="IMU数据" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="930" y="1970" />
             </Array>
             <mxPoint x="1040" y="1934" as="sourcePoint" />
+            <mxPoint x="826" y="1840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-69" value="障碍状态/距离" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.91;entryY=-0.01;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-52" target="w0EkBlQ8d2_kXEBEF-Pg-53">
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-69" value="障碍状态/距离" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-52" target="w0EkBlQ8d2_kXEBEF-Pg-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1509" y="1738" />
+              <mxPoint x="710" y="1890" />
             </Array>
           </mxGeometry>
         </mxCell>
