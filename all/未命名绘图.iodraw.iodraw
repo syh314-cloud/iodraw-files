@@ -240,7 +240,7 @@
           <mxGeometry x="720" y="1598" width="140" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-52" value="P5&#xa;深度避障" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1628" y="1649" width="92" height="51" as="geometry" />
+          <mxGeometry x="780" y="1790" width="92" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-53" value="P6&#xa;导盲状态机" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="1780" width="108" height="51" as="geometry" />
