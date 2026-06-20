@@ -234,7 +234,7 @@
           <mxGeometry x="503" y="1458" width="92" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-50" value="P3&#xa;本地固定指令匹配" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="711" y="1458" width="156" height="51" as="geometry" />
+          <mxGeometry x="690" y="1459" width="156" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-51" value="P4&#xa;大模型语义理解" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="997" y="1476" width="140" height="51" as="geometry" />
@@ -264,7 +264,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-59" value="/aiui/iat" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-49" target="w0EkBlQ8d2_kXEBEF-Pg-50">
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-59" value="文本&#xa;/aiui/iat" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-49" target="w0EkBlQ8d2_kXEBEF-Pg-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
