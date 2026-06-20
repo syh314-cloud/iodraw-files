@@ -237,7 +237,7 @@
           <mxGeometry x="690" y="1459" width="156" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-51" value="P4&#xa;大模型语义理解" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="827" y="1590" width="140" height="51" as="geometry" />
+          <mxGeometry x="720" y="1598" width="140" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-52" value="P5&#xa;深度避障" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1628" y="1649" width="92" height="51" as="geometry" />
@@ -291,7 +291,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-63" value="未命中" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-50" target="w0EkBlQ8d2_kXEBEF-Pg-51">
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-63" value="未命中" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-50" target="w0EkBlQ8d2_kXEBEF-Pg-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="926" y="1502" />
