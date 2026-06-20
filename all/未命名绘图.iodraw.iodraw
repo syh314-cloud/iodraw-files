@@ -243,7 +243,7 @@
           <mxGeometry x="1628" y="1649" width="92" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-53" value="P6&#xa;导盲状态机" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="344" y="1970" width="108" height="51" as="geometry" />
+          <mxGeometry x="450" y="1780" width="108" height="51" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-54" value="P7&#xa;举手引导" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1628" y="1864" width="92" height="51" as="geometry" />
