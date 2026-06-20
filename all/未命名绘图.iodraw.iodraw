@@ -340,7 +340,7 @@
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-69" value="障碍状态/距离" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-52" target="w0EkBlQ8d2_kXEBEF-Pg-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="710" y="1890" />
+              <mxPoint x="680" y="1860" />
             </Array>
           </mxGeometry>
         </mxCell>
