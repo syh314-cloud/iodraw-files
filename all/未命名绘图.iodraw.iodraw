@@ -286,8 +286,7 @@
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-62" value="命中指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=1;entryX=0.31;entryY=-0.01;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-50" target="w0EkBlQ8d2_kXEBEF-Pg-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="926" y="1650" />
-              <mxPoint x="470" y="1610" />
+              <mxPoint x="590" y="1560" />
             </Array>
           </mxGeometry>
         </mxCell>
