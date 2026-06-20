@@ -400,7 +400,7 @@
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-78" value="状态日志" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-53" target="w0EkBlQ8d2_kXEBEF-Pg-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1509" y="1483" />
+              <mxPoint x="640" y="2010" />
             </Array>
           </mxGeometry>
         </mxCell>
