@@ -216,7 +216,7 @@
           <mxGeometry x="940" y="1360" width="164" height="66" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-44" value="D2 &#xa;LLM知识库&#xa;Prompt/策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1570" width="159" height="66" as="geometry" />
+          <mxGeometry x="1060" y="1598" width="159" height="66" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-45" value="D3 深度相机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1791" width="147" height="49" as="geometry" />
@@ -307,7 +307,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-65" value="系统策略" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1.01;entryX=0.84;entryY=1;rounded=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-44" target="w0EkBlQ8d2_kXEBEF-Pg-51">
+        <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-65" value="系统策略" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=1;entryY=0.75;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0EkBlQ8d2_kXEBEF-Pg-44" target="w0EkBlQ8d2_kXEBEF-Pg-51">
           <mxGeometry x="0.0046" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="960" y="1630" />
