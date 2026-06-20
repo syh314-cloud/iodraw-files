@@ -225,7 +225,7 @@
           <mxGeometry x="1039" y="1910" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-47" value="D5 日志/状态库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="2040" width="171" height="49" as="geometry" />
+          <mxGeometry x="660" y="1980" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="w0EkBlQ8d2_kXEBEF-Pg-48" value="P1&#xa;语音采集" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="252" y="1458" width="92" height="51" as="geometry" />
